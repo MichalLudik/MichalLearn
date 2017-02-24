@@ -1,0 +1,5 @@
+C:\Programming\michal.ludik_personal\MichalLearn\Konstruktory\obj\Debug\Konstruktory.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Konstruktory\obj\Debug\Konstruktory.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\Konstruktory\bin\Debug\Konstruktory.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\Konstruktory\bin\Debug\Konstruktory.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Konstruktory\bin\Debug\Konstruktory.pdb

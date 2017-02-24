@@ -1,0 +1,6 @@
+C:\Programming\michal.ludik_personal\MichalLearn\Indexery\bin\Debug\Indexery.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\Indexery\bin\Debug\Indexery.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Indexery\bin\Debug\Indexery.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\Indexery\obj\Debug\Indexery.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\Indexery\obj\Debug\Indexery.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Indexery\obj\Debug\Indexery.pdb

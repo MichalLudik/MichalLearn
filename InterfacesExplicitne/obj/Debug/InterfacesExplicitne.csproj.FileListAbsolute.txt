@@ -1,0 +1,6 @@
+C:\Programming\michal.ludik_personal\MichalLearn\InterfacesExplicitne\bin\Debug\InterfacesExplicitne.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\InterfacesExplicitne\bin\Debug\InterfacesExplicitne.exe
+C:\Programming\michal.ludik_personal\MichalLearn\InterfacesExplicitne\bin\Debug\InterfacesExplicitne.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\InterfacesExplicitne\obj\Debug\InterfacesExplicitne.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\InterfacesExplicitne\obj\Debug\InterfacesExplicitne.exe
+C:\Programming\michal.ludik_personal\MichalLearn\InterfacesExplicitne\obj\Debug\InterfacesExplicitne.pdb

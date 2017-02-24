@@ -1,0 +1,5 @@
+C:\Programming\michal.ludik_personal\MichalLearn\Enums\bin\Debug\Enums.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\Enums\bin\Debug\Enums.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Enums\bin\Debug\Enums.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\Enums\obj\Debug\Enums.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Enums\obj\Debug\Enums.pdb

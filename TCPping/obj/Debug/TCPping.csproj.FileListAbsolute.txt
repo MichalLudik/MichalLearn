@@ -1,0 +1,6 @@
+C:\Programming\michal.ludik_personal\MichalLearn\TCPping\bin\Debug\TCPping.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\TCPping\bin\Debug\TCPping.exe
+C:\Programming\michal.ludik_personal\MichalLearn\TCPping\bin\Debug\TCPping.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\TCPping\obj\Debug\TCPping.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\TCPping\obj\Debug\TCPping.exe
+C:\Programming\michal.ludik_personal\MichalLearn\TCPping\obj\Debug\TCPping.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Databaza\bin\Debug\Databaza.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Databaza\bin\Debug\Databaza.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Databaza\bin\Debug\Databaza.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Databaza\obj\Debug\Databaza.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Databaza\obj\Debug\Databaza.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Databaza\obj\Debug\Databaza.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\Databaza\bin\Debug\Databaza.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\Databaza\bin\Debug\Databaza.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Databaza\bin\Debug\Databaza.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\Databaza\obj\Debug\Databaza.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\Databaza\obj\Debug\Databaza.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Databaza\obj\Debug\Databaza.pdb

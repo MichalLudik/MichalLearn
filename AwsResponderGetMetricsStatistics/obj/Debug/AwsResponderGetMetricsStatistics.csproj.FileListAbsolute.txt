@@ -1,0 +1,6 @@
+C:\Programming\michal.ludik_personal\MichalLearn\AwsResponderGetMetricsStatistics\bin\Debug\AwsResponderGetMetricsStatistics.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\AwsResponderGetMetricsStatistics\bin\Debug\AwsResponderGetMetricsStatistics.exe
+C:\Programming\michal.ludik_personal\MichalLearn\AwsResponderGetMetricsStatistics\bin\Debug\AwsResponderGetMetricsStatistics.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\AwsResponderGetMetricsStatistics\obj\Debug\AwsResponderGetMetricsStatistics.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\AwsResponderGetMetricsStatistics\obj\Debug\AwsResponderGetMetricsStatistics.exe
+C:\Programming\michal.ludik_personal\MichalLearn\AwsResponderGetMetricsStatistics\obj\Debug\AwsResponderGetMetricsStatistics.pdb

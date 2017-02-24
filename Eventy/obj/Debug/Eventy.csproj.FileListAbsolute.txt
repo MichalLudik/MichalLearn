@@ -1,0 +1,12 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Eventy\bin\Debug\Eventy.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Eventy\bin\Debug\Eventy.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Eventy\bin\Debug\Eventy.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Eventy\obj\Debug\Eventy.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Eventy\obj\Debug\Eventy.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Eventy\obj\Debug\Eventy.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\Eventy\bin\Debug\Eventy.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\Eventy\bin\Debug\Eventy.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Eventy\bin\Debug\Eventy.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\Eventy\obj\Debug\Eventy.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\Eventy\obj\Debug\Eventy.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Eventy\obj\Debug\Eventy.pdb

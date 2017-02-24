@@ -1,0 +1,20 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\bin\Debug\Kalkulacka.Test.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\bin\Debug\Kalkulacka.Test.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\obj\Debug\Kalkulacka.Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\obj\Debug\Kalkulacka.Test.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\obj\Debug\Kalkulacka.Test.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\bin\Debug\Kalkulacka.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\bin\Debug\Kalkulacka.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Kalkulacka.Test\bin\Debug\nunit.framework.xml
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\bin\Debug\Kalkulacka.Test.dll
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\bin\Debug\Kalkulacka.Test.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\bin\Debug\Kalkulacka.exe
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\bin\Debug\nunit.framework.dll
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\bin\Debug\Kalkulacka.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\bin\Debug\nunit.framework.xml
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\obj\Debug\Kalkulacka.Test.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\obj\Debug\Kalkulacka.Test.dll
+C:\Programming\michal.ludik_personal\MichalLearn\Kalkulacka.Test\obj\Debug\Kalkulacka.Test.pdb

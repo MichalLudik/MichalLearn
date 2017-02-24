@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\BaseThisDedicnost\bin\Debug\BaseThisDedicnost.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\BaseThisDedicnost\bin\Debug\BaseThisDedicnost.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\BaseThisDedicnost\bin\Debug\BaseThisDedicnost.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\BaseThisDedicnost\obj\Debug\BaseThisDedicnost.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\BaseThisDedicnost\obj\Debug\BaseThisDedicnost.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\BaseThisDedicnost\bin\Debug\BaseThisDedicnost.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\BaseThisDedicnost\bin\Debug\BaseThisDedicnost.exe
+C:\Programming\michal.ludik_personal\MichalLearn\BaseThisDedicnost\bin\Debug\BaseThisDedicnost.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\BaseThisDedicnost\obj\Debug\BaseThisDedicnost.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\BaseThisDedicnost\obj\Debug\BaseThisDedicnost.exe
+C:\Programming\michal.ludik_personal\MichalLearn\BaseThisDedicnost\obj\Debug\BaseThisDedicnost.pdb

@@ -1,0 +1,6 @@
+C:\Programming\michal.ludik_personal\MichalLearn\OverrideMetod\bin\Debug\OverrideMetod.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\OverrideMetod\bin\Debug\OverrideMetod.exe
+C:\Programming\michal.ludik_personal\MichalLearn\OverrideMetod\bin\Debug\OverrideMetod.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\OverrideMetod\obj\Debug\OverrideMetod.exe
+C:\Programming\michal.ludik_personal\MichalLearn\OverrideMetod\obj\Debug\OverrideMetod.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\OverrideMetod\obj\Debug\OverrideMetod.csprojResolveAssemblyReference.cache

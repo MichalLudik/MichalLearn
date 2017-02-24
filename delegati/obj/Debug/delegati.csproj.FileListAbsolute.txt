@@ -1,0 +1,12 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\delegati\bin\Debug\delegati.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\delegati\bin\Debug\delegati.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\delegati\bin\Debug\delegati.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\delegati\obj\Debug\delegati.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\delegati\obj\Debug\delegati.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\delegati\obj\Debug\delegati.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\delegati\bin\Debug\delegati.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\delegati\bin\Debug\delegati.exe
+C:\Programming\michal.ludik_personal\MichalLearn\delegati\bin\Debug\delegati.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\delegati\obj\Debug\delegati.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\delegati\obj\Debug\delegati.exe
+C:\Programming\michal.ludik_personal\MichalLearn\delegati\obj\Debug\delegati.pdb

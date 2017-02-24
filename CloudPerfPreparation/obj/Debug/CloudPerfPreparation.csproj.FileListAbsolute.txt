@@ -1,0 +1,7 @@
+C:\Programming\michal.ludik_personal\MichalLearn\CloudPerfPreparation\bin\Debug\CloudPerfPreparation.exe.config
+C:\Programming\michal.ludik_personal\MichalLearn\CloudPerfPreparation\bin\Debug\CloudPerfPreparation.exe
+C:\Programming\michal.ludik_personal\MichalLearn\CloudPerfPreparation\bin\Debug\CloudPerfPreparation.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\CloudPerfPreparation\obj\Debug\CloudPerfPreparation.csprojResolveAssemblyReference.cache
+C:\Programming\michal.ludik_personal\MichalLearn\CloudPerfPreparation\obj\Debug\CloudPerfPreparation.exe
+C:\Programming\michal.ludik_personal\MichalLearn\CloudPerfPreparation\obj\Debug\CloudPerfPreparation.pdb
+C:\Programming\michal.ludik_personal\MichalLearn\CloudPerfPreparation\bin\Debug\json.txt
