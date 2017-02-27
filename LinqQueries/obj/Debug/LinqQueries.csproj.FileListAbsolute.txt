@@ -1,0 +1,6 @@
+C:\Programming\MichalLearn\MichalLearn\LinqQueries\bin\Debug\LinqQueries.exe.config
+C:\Programming\MichalLearn\MichalLearn\LinqQueries\bin\Debug\LinqQueries.exe
+C:\Programming\MichalLearn\MichalLearn\LinqQueries\bin\Debug\LinqQueries.pdb
+C:\Programming\MichalLearn\MichalLearn\LinqQueries\obj\Debug\LinqQueries.csprojResolveAssemblyReference.cache
+C:\Programming\MichalLearn\MichalLearn\LinqQueries\obj\Debug\LinqQueries.exe
+C:\Programming\MichalLearn\MichalLearn\LinqQueries\obj\Debug\LinqQueries.pdb
