@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectViaSsh", "ConnectVia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQueries", "LinqQueries\LinqQueries.csproj", "{645043F5-91B0-42AF-AAF0-E7A3B082569D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -247,6 +249,14 @@ Global
 		{645043F5-91B0-42AF-AAF0-E7A3B082569D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{645043F5-91B0-42AF-AAF0-E7A3B082569D}.Release|x64.ActiveCfg = Release|Any CPU
 		{645043F5-91B0-42AF-AAF0-E7A3B082569D}.Release|x64.Build.0 = Release|Any CPU
+		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Debug|x64.Build.0 = Debug|Any CPU
+		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Release|x64.ActiveCfg = Release|Any CPU
+		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\UnitTesting.exe.config
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\UnitTesting.exe
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\nunit.framework.dll
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\nunit.framework.xml
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\obj\Debug\UnitTesting.exe
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\Castle.Core.dll
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\Moq.dll
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\Castle.Core.xml
+C:\Programming\MichalLearn\MichalLearn\UnitTesting\bin\Debug\Moq.xml
