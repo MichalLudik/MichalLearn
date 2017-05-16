@@ -21,6 +21,7 @@ namespace UnitTesting
         [Test]
         public void Startujeme2()
         {
+            //blbo, nesmiem mockovat Auto triedu ale tu, na ktorej by bola zavisla (vstupny parameter atd.)
             var auto = new Mock<IAuto>();
             var autoObjekt = auto.Object;
 

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "MichalLearn\ref_out.csproj", "{8CBFE459-B594-48FF-906F-7AA952E19CC3}"
 EndProject
@@ -56,6 +56,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQueries", "LinqQueries\LinqQueries.csproj", "{645043F5-91B0-42AF-AAF0-E7A3B082569D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetBenchmark", "DotNetBenchmark\DotNetBenchmark.csproj", "{E10F0A49-2802-40C6-958D-EF44537D3B2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -257,6 +259,14 @@ Global
 		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Release|x64.ActiveCfg = Release|Any CPU
 		{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}.Release|x64.Build.0 = Release|Any CPU
+		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Debug|x64.Build.0 = Debug|Any CPU
+		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Release|x64.ActiveCfg = Release|Any CPU
+		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,17 +10,20 @@ namespace TCPping
         static int port = 80;
         static string ip = "10.140.46.254";
 
-        static void Main()
+        static void Main(string[] args)
         {
-            sokety();
-            //using (var connection = new TcpClient())
-            //{
-            //    Stopwatch watch = new Stopwatch();
-            //    ping(watch,connection);
-            //    //networkBandwidth(watch,connection);
-                
-            //    connection.Close();
-            //}
+            //sokety();
+            while (true)
+            {
+                using (var connection = new TcpClient())
+                {
+                    Stopwatch watch = new Stopwatch();
+
+                    ping(watch, connection);
+                    connection.Close();
+
+                }
+            }
             Console.Read();
         }
 
