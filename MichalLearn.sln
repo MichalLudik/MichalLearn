@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "MichalLearn\ref_out.csproj", "{8CBFE459-B594-48FF-906F-7AA952E19CC3}"
 EndProject
@@ -58,6 +58,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{1CB2EE07-8ACC-4C65-AE80-5B46AD4FF7D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetBenchmark", "DotNetBenchmark\DotNetBenchmark.csproj", "{E10F0A49-2802-40C6-958D-EF44537D3B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService", "WindowsService\WindowsService.csproj", "{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WindowsServiceSetup", "Setup1\Setup1.vdproj", "{E8428D32-FF7F-48DD-B3F0-99112E376D44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +271,18 @@ Global
 		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Release|x64.ActiveCfg = Release|Any CPU
 		{E10F0A49-2802-40C6-958D-EF44537D3B2E}.Release|x64.Build.0 = Release|Any CPU
+		{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}.Debug|x64.Build.0 = Debug|Any CPU
+		{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}.Release|x64.ActiveCfg = Release|Any CPU
+		{27CA312D-8B9F-4CDD-9D93-EAB024259EA0}.Release|x64.Build.0 = Release|Any CPU
+		{E8428D32-FF7F-48DD-B3F0-99112E376D44}.Debug|Any CPU.ActiveCfg = Debug
+		{E8428D32-FF7F-48DD-B3F0-99112E376D44}.Debug|x64.ActiveCfg = Debug
+		{E8428D32-FF7F-48DD-B3F0-99112E376D44}.Release|Any CPU.ActiveCfg = Release
+		{E8428D32-FF7F-48DD-B3F0-99112E376D44}.Release|x64.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
