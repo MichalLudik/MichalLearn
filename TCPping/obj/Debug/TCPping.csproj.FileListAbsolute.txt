@@ -4,3 +4,11 @@ C:\Programming\michal.ludik_personal\MichalLearn\TCPping\bin\Debug\TCPping.pdb
 C:\Programming\michal.ludik_personal\MichalLearn\TCPping\obj\Debug\TCPping.csprojResolveAssemblyReference.cache
 C:\Programming\michal.ludik_personal\MichalLearn\TCPping\obj\Debug\TCPping.exe
 C:\Programming\michal.ludik_personal\MichalLearn\TCPping\obj\Debug\TCPping.pdb
+C:\Programming\MichalLearn\MichalLearn\TCPping\bin\Debug\TCPping.exe.config
+C:\Programming\MichalLearn\MichalLearn\TCPping\bin\Debug\TCPping.exe
+C:\Programming\MichalLearn\MichalLearn\TCPping\bin\Debug\TCPping.pdb
+C:\Programming\MichalLearn\MichalLearn\TCPping\bin\Debug\Renci.SshNet.dll
+C:\Programming\MichalLearn\MichalLearn\TCPping\bin\Debug\Renci.SshNet.xml
+C:\Programming\MichalLearn\MichalLearn\TCPping\obj\Debug\TCPping.csprojResolveAssemblyReference.cache
+C:\Programming\MichalLearn\MichalLearn\TCPping\obj\Debug\TCPping.exe
+C:\Programming\MichalLearn\MichalLearn\TCPping\obj\Debug\TCPping.pdb

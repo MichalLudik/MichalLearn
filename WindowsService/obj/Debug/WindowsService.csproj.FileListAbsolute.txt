@@ -1,0 +1,8 @@
+C:\Programming\MichalLearn\MichalLearn\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Programming\MichalLearn\MichalLearn\WindowsService\bin\Debug\WindowsService.exe
+C:\Programming\MichalLearn\MichalLearn\WindowsService\bin\Debug\WindowsService.pdb
+C:\Programming\MichalLearn\MichalLearn\WindowsService\obj\Debug\WindowsService.csprojResolveAssemblyReference.cache
+C:\Programming\MichalLearn\MichalLearn\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Programming\MichalLearn\MichalLearn\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.Cache
+C:\Programming\MichalLearn\MichalLearn\WindowsService\obj\Debug\WindowsService.exe
+C:\Programming\MichalLearn\MichalLearn\WindowsService\obj\Debug\WindowsService.pdb

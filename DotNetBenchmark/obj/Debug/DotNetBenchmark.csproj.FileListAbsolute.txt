@@ -40,3 +40,11 @@ C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\System.Threadin
 C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\obj\Debug\DotNetBenchmark.csprojResolveAssemblyReference.cache
 C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\obj\Debug\DotNetBenchmark.exe
 C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\obj\Debug\DotNetBenchmark.pdb
+C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\x86\KernelTraceControl.dll
+C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\x86\msdia140.dll
+C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\amd64\KernelTraceControl.dll
+C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\amd64\msdia140.dll
+C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\BenchmarkDotNet.Diagnostics.Windows.dll
+C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\BenchmarkDotNet.Diagnostics.Windows.xml
+C:\Programming\MichalLearn\MichalLearn\DotNetBenchmark\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
