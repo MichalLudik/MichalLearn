@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpravaExistujucehoSuboru", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncProgramming\AsyncProgramming.csproj", "{D7E61041-1EDD-4B32-B9E8-14EF01653A89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.csproj", "{7CE36960-FFCB-4F75-9161-76EDF3CC939C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,14 @@ Global
 		{D7E61041-1EDD-4B32-B9E8-14EF01653A89}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D7E61041-1EDD-4B32-B9E8-14EF01653A89}.Release|x64.ActiveCfg = Release|Any CPU
 		{D7E61041-1EDD-4B32-B9E8-14EF01653A89}.Release|x64.Build.0 = Release|Any CPU
+		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Debug|x64.Build.0 = Debug|Any CPU
+		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|x64.ActiveCfg = Release|Any CPU
+		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
