@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.csproj", "{7CE36960-FFCB-4F75-9161-76EDF3CC939C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionOfControl", "InversionOfControl\InversionOfControl.csproj", "{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIWindsorContainer", "DIWindsorContainer\DIWindsorContainer.csproj", "{6C471723-6BA0-4175-802C-9C1A012EE1DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -325,6 +329,22 @@ Global
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|x64.ActiveCfg = Release|Any CPU
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|x64.Build.0 = Release|Any CPU
+		{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}.Debug|x64.Build.0 = Debug|Any CPU
+		{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}.Release|x64.ActiveCfg = Release|Any CPU
+		{03CFCF87-CA7F-409C-9B0F-78EE1BAADCB3}.Release|x64.Build.0 = Release|Any CPU
+		{6C471723-6BA0-4175-802C-9C1A012EE1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C471723-6BA0-4175-802C-9C1A012EE1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C471723-6BA0-4175-802C-9C1A012EE1DC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6C471723-6BA0-4175-802C-9C1A012EE1DC}.Debug|x64.Build.0 = Debug|Any CPU
+		{6C471723-6BA0-4175-802C-9C1A012EE1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C471723-6BA0-4175-802C-9C1A012EE1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C471723-6BA0-4175-802C-9C1A012EE1DC}.Release|x64.ActiveCfg = Release|Any CPU
+		{6C471723-6BA0-4175-802C-9C1A012EE1DC}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

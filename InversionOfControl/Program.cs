@@ -5,8 +5,7 @@
  * *https://msdn.microsoft.com/en-us/library/ff921087.aspx
  * 
  * https://www.codementor.io/copperstarconsulting/getting-started-with-dependency-injection-using-castle-windsor-4meqzcsvh
- * https://roland.kierkels.net/c-asp-net/dependency-injection-using-castle-windsor/
- * http://www.codeguru.com/columns/experts/implementing-the-inversion-of-control-pattern-in-c.htm
+ * *https://roland.kierkels.net/c-asp-net/dependency-injection-using-castle-windsor/
  * 
  * IoC - pattern na implementaciu Dependency Inversion
  *     - je mozne ho implementovat aj pomocou Service Locatoru
