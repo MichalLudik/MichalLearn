@@ -1,6 +1,2 @@
-WindowsService/bin/
-AsyncProgramming/bin/
-AsyncProgramming/obj/
-Dispose/bin/
-Dispose/obj/
-InversionOfControl/obj/
+*/bin/
+*/obj/
