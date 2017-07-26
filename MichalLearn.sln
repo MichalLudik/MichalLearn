@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "MichalLearn\ref_out.csproj", "{8CBFE459-B594-48FF-906F-7AA952E19CC3}"
 EndProject
@@ -72,6 +72,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncProgramming\AsyncProgramming.csproj", "{D7E61041-1EDD-4B32-B9E8-14EF01653A89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.csproj", "{7CE36960-FFCB-4F75-9161-76EDF3CC939C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generika", "Generika\Generika.csproj", "{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -325,6 +327,14 @@ Global
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|x64.ActiveCfg = Release|Any CPU
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|x64.Build.0 = Release|Any CPU
+		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Debug|x64.Build.0 = Debug|Any CPU
+		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Release|x64.ActiveCfg = Release|Any CPU
+		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
