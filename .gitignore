@@ -4,3 +4,6 @@ AsyncProgramming/obj/
 Dispose/bin/
 Dispose/obj/
 DIWindsorContainer/obj/
+*.sqlite
+Generika/bin/
+Generika/obj/

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}</ProjectGuid>
+    <ProjectGuid>{B65011F1-03D6-4D42-BEF8-8AFDA425CA1D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Generika</RootNamespace>
     <AssemblyName>Generika</AssemblyName>

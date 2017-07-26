@@ -73,8 +73,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProgramming", "AsyncPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.csproj", "{7CE36960-FFCB-4F75-9161-76EDF3CC939C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generika", "Generika\Generika.csproj", "{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,14 +325,6 @@ Global
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|x64.ActiveCfg = Release|Any CPU
 		{7CE36960-FFCB-4F75-9161-76EDF3CC939C}.Release|x64.Build.0 = Release|Any CPU
-		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Debug|x64.Build.0 = Debug|Any CPU
-		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Release|x64.ActiveCfg = Release|Any CPU
-		{AE1D91F9-0959-4CBA-828B-8EB48530D8FD}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
