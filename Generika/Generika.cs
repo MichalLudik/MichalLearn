@@ -1,6 +1,8 @@
 ﻿/* Najvacsie vyuzitie pri vytvarani kolekcii
  * Metody mozu mat definovanu logiku pre rozne typy dat (ine chovanie pri int, string, abc, ...)
  * https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/
+ * https://www.dotnetperls.com/generic
+ * 
  * Vyhody
  *  - type safety -> pracuje sa vzdy nad jednym datovym typom, nemoze sa stat ze by sa pomiesali napr int a string
  *  - performance -> neprebieha boxing a unboxing
@@ -10,7 +12,6 @@
  */
 
 using System;
-using System.Collections;
 
 namespace Generika
 {
@@ -65,4 +66,17 @@ namespace Generika
             Console.WriteLine($"{properta.GetType()}");
         }
     }
+
+    //public class Disposable<T> where T : IDisposable
+    //{
+    //   vyzaduje datovy typ, ktory implementuje IDisposable
+    //}
+
+    //public class MusiBytStruktura<T> where T : struct
+    //{
+    //}
+
+    //public class PozadujeTrieduSKonstruktorom<V> where V : class, new()
+    //{
+    //}
 }
