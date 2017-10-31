@@ -8,6 +8,10 @@ build/
 
 #packages
 **/packages/*
+/paket.lock
+
+#visual studio
 *.targets
 /.vs/MichalLearn/v15/sqlite3/storage.ide
-/paket.lock
+**/.vs/*
+
