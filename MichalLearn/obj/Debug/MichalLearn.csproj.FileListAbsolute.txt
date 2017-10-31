@@ -1,6 +1,0 @@
-c:\users\administrator\documents\visual studio 2015\Projects\MichalLearn\MichalLearn\bin\Debug\MichalLearn.exe.config
-c:\users\administrator\documents\visual studio 2015\Projects\MichalLearn\MichalLearn\bin\Debug\MichalLearn.exe
-c:\users\administrator\documents\visual studio 2015\Projects\MichalLearn\MichalLearn\bin\Debug\MichalLearn.pdb
-c:\users\administrator\documents\visual studio 2015\Projects\MichalLearn\MichalLearn\obj\Debug\MichalLearn.csprojResolveAssemblyReference.cache
-c:\users\administrator\documents\visual studio 2015\Projects\MichalLearn\MichalLearn\obj\Debug\MichalLearn.exe
-c:\users\administrator\documents\visual studio 2015\Projects\MichalLearn\MichalLearn\obj\Debug\MichalLearn.pdb

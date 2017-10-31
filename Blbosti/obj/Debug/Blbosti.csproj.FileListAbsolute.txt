@@ -1,6 +1,0 @@
-C:\Programming\MichalLearn\MichalLearn\Blbosti\bin\Debug\Blbosti.exe.config
-C:\Programming\MichalLearn\MichalLearn\Blbosti\bin\Debug\Blbosti.exe
-C:\Programming\MichalLearn\MichalLearn\Blbosti\bin\Debug\Blbosti.pdb
-C:\Programming\MichalLearn\MichalLearn\Blbosti\obj\Debug\Blbosti.exe
-C:\Programming\MichalLearn\MichalLearn\Blbosti\obj\Debug\Blbosti.pdb
-C:\Programming\MichalLearn\MichalLearn\Blbosti\obj\Debug\Blbosti.csprojResolveAssemblyReference.cache

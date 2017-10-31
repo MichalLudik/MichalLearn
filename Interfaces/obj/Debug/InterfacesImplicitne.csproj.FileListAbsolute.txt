@@ -1,5 +1,0 @@
-C:\Programming\michal.ludik_personal\MichalLearn\Interfaces\bin\Debug\Interfaces.exe.config
-C:\Programming\michal.ludik_personal\MichalLearn\Interfaces\bin\Debug\Interfaces.exe
-C:\Programming\michal.ludik_personal\MichalLearn\Interfaces\bin\Debug\Interfaces.pdb
-C:\Programming\michal.ludik_personal\MichalLearn\Interfaces\obj\Debug\Interfaces.exe
-C:\Programming\michal.ludik_personal\MichalLearn\Interfaces\obj\Debug\Interfaces.pdb

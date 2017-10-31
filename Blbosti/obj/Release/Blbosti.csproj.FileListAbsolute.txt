@@ -1,5 +1,0 @@
-C:\Programming\MichalLearn\MichalLearn\Blbosti\bin\Release\Blbosti.exe.config
-C:\Programming\MichalLearn\MichalLearn\Blbosti\bin\Release\Blbosti.exe
-C:\Programming\MichalLearn\MichalLearn\Blbosti\bin\Release\Blbosti.pdb
-C:\Programming\MichalLearn\MichalLearn\Blbosti\obj\Release\Blbosti.exe
-C:\Programming\MichalLearn\MichalLearn\Blbosti\obj\Release\Blbosti.pdb

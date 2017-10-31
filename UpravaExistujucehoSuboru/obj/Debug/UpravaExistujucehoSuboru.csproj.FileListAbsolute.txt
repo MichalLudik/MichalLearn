@@ -1,7 +1,0 @@
-C:\Programming\MichalLearn\MichalLearn\UpravaExistujucehoSuboru\bin\Debug\installServer.ps1
-C:\Programming\MichalLearn\MichalLearn\UpravaExistujucehoSuboru\bin\Debug\UpravaExistujucehoSuboru.exe.config
-C:\Programming\MichalLearn\MichalLearn\UpravaExistujucehoSuboru\bin\Debug\UpravaExistujucehoSuboru.exe
-C:\Programming\MichalLearn\MichalLearn\UpravaExistujucehoSuboru\bin\Debug\UpravaExistujucehoSuboru.pdb
-C:\Programming\MichalLearn\MichalLearn\UpravaExistujucehoSuboru\obj\Debug\UpravaExistujucehoSuboru.csprojResolveAssemblyReference.cache
-C:\Programming\MichalLearn\MichalLearn\UpravaExistujucehoSuboru\obj\Debug\UpravaExistujucehoSuboru.exe
-C:\Programming\MichalLearn\MichalLearn\UpravaExistujucehoSuboru\obj\Debug\UpravaExistujucehoSuboru.pdb

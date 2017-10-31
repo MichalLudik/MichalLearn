@@ -1,6 +1,13 @@
-WindowsService/bin/
-AsyncProgramming/bin/
-AsyncProgramming/obj/
-Dispose/bin/
-Dispose/obj/
-DIWindsorContainer/obj/
+#build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+#packages
+**/packages/*
+*.targets
+/.vs/MichalLearn/v15/sqlite3/storage.ide
+/paket.lock

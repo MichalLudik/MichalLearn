@@ -1,5 +1,0 @@
-C:\Programming\michal.ludik_personal\MichalLearn\CoMozeObsahovatInterface\bin\Debug\CoMozeObsahovatInterface.exe.config
-C:\Programming\michal.ludik_personal\MichalLearn\CoMozeObsahovatInterface\bin\Debug\CoMozeObsahovatInterface.exe
-C:\Programming\michal.ludik_personal\MichalLearn\CoMozeObsahovatInterface\bin\Debug\CoMozeObsahovatInterface.pdb
-C:\Programming\michal.ludik_personal\MichalLearn\CoMozeObsahovatInterface\obj\Debug\CoMozeObsahovatInterface.exe
-C:\Programming\michal.ludik_personal\MichalLearn\CoMozeObsahovatInterface\obj\Debug\CoMozeObsahovatInterface.pdb

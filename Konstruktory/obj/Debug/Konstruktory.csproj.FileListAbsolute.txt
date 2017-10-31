@@ -1,6 +1,0 @@
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Konstruktory\bin\Debug\Konstruktory.exe.config
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Konstruktory\bin\Debug\Konstruktory.exe
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Konstruktory\bin\Debug\Konstruktory.pdb
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Konstruktory\obj\Debug\Konstruktory.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Konstruktory\obj\Debug\Konstruktory.exe
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\Konstruktory\obj\Debug\Konstruktory.pdb

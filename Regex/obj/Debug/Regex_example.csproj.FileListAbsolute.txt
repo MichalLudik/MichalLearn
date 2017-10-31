@@ -1,8 +1,0 @@
-C:\Programming\michal.ludik_personal\MichalLearn\Regex\bin\Debug\Regex.exe.config
-C:\Programming\michal.ludik_personal\MichalLearn\Regex\bin\Debug\Regex.exe
-C:\Programming\michal.ludik_personal\MichalLearn\Regex\bin\Debug\Regex.pdb
-C:\Programming\michal.ludik_personal\MichalLearn\Regex\obj\Debug\Regex_example.csprojResolveAssemblyReference.cache
-C:\Programming\michal.ludik_personal\MichalLearn\Regex\obj\Debug\Regex.exe
-C:\Programming\michal.ludik_personal\MichalLearn\Regex\obj\Debug\Regex.pdb
-C:\Programming\michal.ludik_personal\MichalLearn\Regex\bin\Debug\nunit.framework.dll
-C:\Programming\michal.ludik_personal\MichalLearn\Regex\bin\Debug\nunit.framework.xml

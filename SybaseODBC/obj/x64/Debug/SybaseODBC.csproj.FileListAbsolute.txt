@@ -1,6 +1,0 @@
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\SybaseODBC\bin\x64\Debug\SybaseODBC.exe.config
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\SybaseODBC\bin\x64\Debug\SybaseODBC.exe
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\SybaseODBC\bin\x64\Debug\SybaseODBC.pdb
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\SybaseODBC\obj\x64\Debug\SybaseODBC.exe
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\SybaseODBC\obj\x64\Debug\SybaseODBC.pdb
-C:\Users\Administrator\documents\visual studio 2015\Projects\MichalLearn\SybaseODBC\obj\x64\Debug\SybaseODBC.csprojResolveAssemblyReference.cache
