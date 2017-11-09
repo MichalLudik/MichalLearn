@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <script src="javascript.js"></script>
+        <script src="validation.js"></script>
+        <script src="pohyb.js"></script>
+    </head>
+    <body>
+        <button type="button" onclick="napisNieco()">Button</button>
+        <br/>
+        <button type="button" onclick="zavolajThisMetodu()">Knizka z 'this'</button>
+        <br/>
+        <br/>
+        Data validation<br/>
+        <form action="/cgi-bin/test.cgi" name="myForm" onsubmit="return(validate() & validateEmail());">
+            <table cellspacing="2" cellpadding="2" border="1">
+               
+               <tr>
+                  <td align="right">Name</td>
+                  <td><input type="text" name="Name" /></td>
+               </tr>
+               
+               <tr>
+                  <td align="right">EMail</td>
+                  <td><input type="text" name="EMail" /></td>
+               </tr>
+               
+               <tr>
+                  <td align="right">Zip Code</td>
+                  <td><input type="text" name="Zip" /></td>
+               </tr>
+               
+               <tr>
+                  <td align="right">Country</td>
+                  <td>
+                     <select name="Country">
+                        <option value="-1" selected>[choose yours]</option>
+                        <option value="1">USA</option>
+                        <option value="2">UK</option>
+                        <option value="3">INDIA</option>
+                     </select>
+                  </td>
+               </tr>
+               
+               <tr>
+                  <td align="right"></td>
+                  <td><input type="submit" value="Submit"/></td>
+               </tr>
+               
+            </table>
+         </form>
+
+         <form>
+             <img id="myImage" src ="homer.jpg"/>
+             <p>Klikni aby sa Homer posunul doprava</p> 
+             <input type="button" value="move me" onclick="moveRight()"/>
+             <input type="button" value="stop me" onclick="stop()"/>
+             <input type="button" value="reset" onclick="resetPosition()"/>
+         </form>
+    </body>
+</html>
