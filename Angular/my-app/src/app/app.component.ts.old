@@ -1,0 +1,30 @@
+import { Component } from '@angular/core';
+
+@Component({ // decorator
+  selector: 'app-root',
+  template: `
+  <h1>Zdar</h1>
+  olele
+  {{myObject.location}}
+
+  <ul>
+    <li *ngFor="let arr of myArr">{{arr}}</li>
+  </ul>
+
+  <div *ngIf="myArr; then pozitivne else negativne"></div>
+
+  <ng-template #negativne>Negativne</ng-template>
+  <ng-template #pozitivne>Pozitivne</ng-template>
+  `,
+  // templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent {
+  myObject = {
+    gender : 'Male',
+    age: 33,
+    location: 'USA'
+  };
+
+  myArr = false;
+}
