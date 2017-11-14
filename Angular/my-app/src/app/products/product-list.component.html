@@ -5,19 +5,23 @@
     <div>
         <div>
             <div>Filter by:</div>
-            <div><input type="text" /></div>
+            <div><input type='text'
+                [(ngModel)]='listFilter'
+                />
         </div>
         <div>
             <div>
-                <h3>Filtered by:</h3>
+                <h3>Filtered by: {{listFilter}}</h3>
             </div>
         </div>
         <div>
-            <table>
+            <table *ngIf='products && products.length'>
                 <thead>
                     <tr>
                         <th>
-                            <button>Show image</button>
+                            <button (click)='zobrazObrazky()'>
+                                {{showImage? 'Schovaj obrazky' : 'Ukaz obrazky'}}
+                            </button>
                         </th>
                         <th>Product</th>
                         <th>Code</th>
@@ -27,7 +31,20 @@
                     </tr>
                 </thead>
                 <tbody>
-                    
+                    <tr *ngFor='let product of products'>
+                        <td>
+                            <img *ngIf='showImage'
+                                [src]='product.imageUrl'
+                                [title]='product.productName | uppercase'
+                                [style.width.px]='imageWidth'
+                                [style.margin.px]='imageMargin'>
+                        </td>
+                        <td>{{product.productName}}</td>
+                        <td>{{product.productCode | lowercase}}</td>
+                        <td>{{product.releaseDate}}</td>
+                        <td>{{product.price | currency:'EUR':true:'1.2-2'}}</td>
+                        <td>{{product.starRating}}</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
