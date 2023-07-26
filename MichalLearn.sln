@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.8
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "MichalLearn\ref_out.csproj", "{8CBFE459-B594-48FF-906F-7AA952E19CC3}"
 EndProject
@@ -71,13 +71,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore", "NetCore", "{25518FF5-5475-4F51-80D2-ACB7209E8907}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreClient", "NetCoreExample\NetCoreClient.csproj", "{79ABE0D8-D353-4C2C-89A2-A0F5E9BBBA20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreClient", "NetCoreExample\NetCoreClient.csproj", "{79ABE0D8-D353-4C2C-89A2-A0F5E9BBBA20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncListener", "AsyncListener\AsyncListener.csproj", "{6BA37F9D-A9C4-4F73-81F1-4C5204EF5815}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncListener", "AsyncListener\AsyncListener.csproj", "{6BA37F9D-A9C4-4F73-81F1-4C5204EF5815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreServer", "NetCoreServer\NetCoreServer.csproj", "{EF5DA15F-ECF1-4018-8F91-5988F366CA56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreServer", "NetCoreServer\NetCoreServer.csproj", "{EF5DA15F-ECF1-4018-8F91-5988F366CA56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetConsoleApp1", "NetConsoleApp1\NetConsoleApp1.csproj", "{AE354286-19F8-4FEA-92D0-9787E8B4CB17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetConsoleApp1", "NetConsoleApp1\NetConsoleApp1.csproj", "{AE354286-19F8-4FEA-92D0-9787E8B4CB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializacia", "Serializacia\Serializacia.csproj", "{4C854A72-691B-488F-9E51-46135D1822DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -347,6 +349,14 @@ Global
 		{AE354286-19F8-4FEA-92D0-9787E8B4CB17}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AE354286-19F8-4FEA-92D0-9787E8B4CB17}.Release|x64.ActiveCfg = Release|Any CPU
 		{AE354286-19F8-4FEA-92D0-9787E8B4CB17}.Release|x64.Build.0 = Release|Any CPU
+		{4C854A72-691B-488F-9E51-46135D1822DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C854A72-691B-488F-9E51-46135D1822DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C854A72-691B-488F-9E51-46135D1822DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4C854A72-691B-488F-9E51-46135D1822DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{4C854A72-691B-488F-9E51-46135D1822DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C854A72-691B-488F-9E51-46135D1822DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C854A72-691B-488F-9E51-46135D1822DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{4C854A72-691B-488F-9E51-46135D1822DA}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
